@@ -110,14 +110,13 @@ def main():
 # text = input("Please enter note text: ")
 # time = datetime.today()
 
-
-
 # add_new_note(text)
 # add_new_note(text)
 # add_new_note(text)
 # add_new_note(text)
 # print_all_notes()
 #Ctrl c
+
 
 
 init()
